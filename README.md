@@ -1,2 +1,2 @@
 # think-grpc
-thinkjs request by grpc
+grpc for Thinkjs3.x
